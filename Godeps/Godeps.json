@@ -9,6 +9,15 @@
 			"Rev": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75"
 		},
 		{
+			"ImportPath": "github.com/mattn/go-runewidth",
+			"Comment": "v0.0.2-11-ga9d6d1e",
+			"Rev": "a9d6d1e4dc51df2130326793d49971f238839169"
+		},
+		{
+			"ImportPath": "github.com/nsf/termbox-go",
+			"Rev": "e2050e41c8847748ec5288741c0b19a8cb26d084"
+		},
+		{
 			"ImportPath": "github.com/spf13/cobra",
 			"Comment": "v0.0.2-1-g4dab30c",
 			"Rev": "4dab30cb33e6633c33c787106bafbfbfdde7842d"
