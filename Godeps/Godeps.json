@@ -4,6 +4,21 @@
 	"GodepVersion": "v80",
 	"Deps": [
 		{
+			"ImportPath": "github.com/inconshreveable/mousetrap",
+			"Comment": "v1.0",
+			"Rev": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75"
+		},
+		{
+			"ImportPath": "github.com/spf13/cobra",
+			"Comment": "v0.0.2-1-g4dab30c",
+			"Rev": "4dab30cb33e6633c33c787106bafbfbfdde7842d"
+		},
+		{
+			"ImportPath": "github.com/spf13/pflag",
+			"Comment": "v1.0.0-16-g1ce0cc6",
+			"Rev": "1ce0cc6db4029d97571db82f85092fccedb572ce"
+		},
+		{
 			"ImportPath": "github.com/ttacon/chalk",
 			"Comment": "v0.1-3-g22c06c8",
 			"Rev": "22c06c80ed312dcb6e1cf394f9634aa2c4676e22"
