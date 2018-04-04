@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/ivangabriele/athena",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/ttacon/chalk",
+			"Comment": "v0.1-3-g22c06c8",
+			"Rev": "22c06c80ed312dcb6e1cf394f9634aa2c4676e22"
+		}
+	]
+}
