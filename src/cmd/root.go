@@ -4,16 +4,13 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ivangabriele/athena/src/simulator"
 	"github.com/spf13/cobra"
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "simulator",
-	Short: "Athena network terminal simulator.",
-	Long:  "",
+	Use: "athena",
 	Run: func(cmd *cobra.Command, args []string) {
-		simulator.Start()
+		cmd.Help()
 	},
 }
 
